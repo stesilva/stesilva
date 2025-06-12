@@ -1,4 +1,5 @@
-# Hi, I'm Stephanie Gomes 👋
+<h1 align="center">Hi 👋, I'm Stephanie Gomes</h1>
+<h3 align="center">A passionate data analyst and data engineer!</h3>
 
 I am an experienced Data Analyst and Data Engineer with over three years of hands-on expertise in designing and implementing data pipelines, conducting in-depth data analyses, and leveraging tools such as SQL and Python. 
 
